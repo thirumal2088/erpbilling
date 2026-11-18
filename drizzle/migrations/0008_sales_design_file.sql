@@ -1,0 +1,1 @@
+ALTER TABLE public.sales ADD COLUMN design_path text;
